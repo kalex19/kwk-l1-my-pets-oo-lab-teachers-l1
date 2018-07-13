@@ -1,3 +1,5 @@
-class Cat
-  # code goes here
-end
+class Owner
+  def initialize(name,price)
+    @name (name)
+    @price (price)
+  end 
